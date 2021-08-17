@@ -12,9 +12,10 @@
  --
  --
  -- SCRIPT: 
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/1erkermer/fleethefacility/main/actualcode"))()
  --
  --
-
+ --
 
 
 
